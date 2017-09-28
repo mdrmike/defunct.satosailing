@@ -1,8 +1,10 @@
-theme: jekyll-theme-cayman
-show_downloads: false
-
 title: Sato Sailing Club
 description: Sailing for fun and learning
+
+
+theme: jekyll-theme-cayman
+show_downloads: false
+show_projectpage: false
 
 
 #google_analytics: 
