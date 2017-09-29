@@ -1,6 +1,6 @@
 ---
 #layout: post
-title:  Regatta: PCISA Sea Otter Oct 14-15
+title:  "Regatta: PCISA Sea Otter Oct 14-15"
 date:   2017-09-29 01:07:52 -0700
 last_modified_at: 2017-09-29 01:07:52 -0700
 categories: regatta
