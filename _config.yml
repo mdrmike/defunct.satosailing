@@ -1,24 +1,14 @@
 title: Sato Sailing Club
 description: Sailing for fun and learning
 
-
 theme: jekyll-theme-cayman
 show_downloads: false
 show_projectpage: false
 
-
 #google_analytics: 
 
-
-# Build settings
-# ██████  ██    ██ ██ ██      ██████      ███████ ███████ ████████ ████████ ██ ███    ██  ██████  ███████
-# ██   ██ ██    ██ ██ ██      ██   ██     ██      ██         ██       ██    ██ ████   ██ ██       ██
-# ██████  ██    ██ ██ ██      ██   ██     ███████ █████      ██       ██    ██ ██ ██  ██ ██   ███ ███████
-# ██   ██ ██    ██ ██ ██      ██   ██          ██ ██         ██       ██    ██ ██  ██ ██ ██    ██      ██
-# ██████   ██████  ██ ███████ ██████      ███████ ███████    ██       ██    ██ ██   ████  ██████  ███████
-
 # Github-pages list of gems https://pages.github.com/versions/
-plugins:
+gems:
   - jekyll-feed             # SEO generate an Atom (RSS-like) feed of your Jekyll posts — https://github.com/jekyll/jekyll-feed
   - jekyll-redirect-from    # SEO 301 redirects — https://github.com/jekyll/jekyll-redirect-from
   - jekyll-seo-tag          # SEO add metadata tags for search & social networks — https://github.com/jekyll/jekyll-seo-tag
@@ -28,7 +18,6 @@ plugins:
   - jekyll-relative-links   # GFM convert relative links to markdown files to their rendered equivalents — https://github.com/benbalter/jekyll-relative-links/
   - jemoji                  # GFM GitHub-flavored Emoji plugin for Jekyll — https://github.com/jekyll/jemoji
   - jekyll-titles-from-headings # Generate page title from the first Markdown heading when none is specified — https://github.com/benbalter/jekyll-titles-from-headings
-
 #  - jekyll-paginate         # Jekyll Built-in Pagination Generator for Jekyll
 #  - jekyll-readme-index     # Jekyll Render a project's README as the site's index — https://github.com/benbalter/jekyll-readme-index/
 #  - jekyll-avatar           # Liquid  rendering GitHub avatars — https://github.com/benbalter/jekyll-avatar/
@@ -50,8 +39,9 @@ plugins:
 #      - jekyll-relative-links            # https://github.com/benbalter/jekyll-relative-links
 #      - jekyll-titles-from-headings      # https://github.com/benbalter/jekyll-titles-from-headings
 
-liquid:
-  error_mode: strict #warn  #lax
+#liquid:
+#  error_mode: strict #warn  #lax
+#
 
 markdown: kramdown
 
@@ -60,6 +50,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor/
-:
-
-
+  
