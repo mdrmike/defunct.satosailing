@@ -22,15 +22,15 @@ author: Mike Stewart
 
 After speaking with ABYC coach Mark Ryan (Craig Ramsay, Director of Sailing Programs was unavailable).  Due to PCISA rules if a team enters, they need to have at least two boats, gold & silver team.  The current plan is to send Nikhil & Diego for Gold, and Troy & Elizabeth for silver.  Hopefully a couple other sailors can join as its also typical to swap crew out during a two day event—both days although fun, can be very long & tiring.  Suggestions on how to coordinate are welcome!
 
-[Travel Coordination Doc](https://docs.google.com/document/d/1_aak6r156h44mse531RZKZOjXVh1fIFb2djaTb_KRo0) (in shared folder)
-
-
 
 ### Logistics 
 
-No practice on Friday before regatta due to Travel.
+No practice Friday Oct 13 due to regatta travel.
 
 Practice as normal on Wed Oct 11, then (possible practce on Thursday? and/or simply) prep and pack the boats to be ready to go.  Which allows a driver(s) to tow trailer(s) Thursday or Friday. 
+
+[Travel Coordination Doc](https://docs.google.com/document/d/1_aak6r156h44mse531RZKZOjXVh1fIFb2djaTb_KRo0) (in shared folder)
+
 
 #### Lodging 
 
