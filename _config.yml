@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 show_downloads: false
 show_projectpage: false
 
-#google_analytics: 
+google_analytics: UA-107316710-1
 
 # Github-pages list of gems https://pages.github.com/versions/
 gems:
