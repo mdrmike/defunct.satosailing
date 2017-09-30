@@ -18,6 +18,7 @@ gems:
   - jekyll-relative-links   # GFM convert relative links to markdown files to their rendered equivalents — https://github.com/benbalter/jekyll-relative-links/
   - jemoji                  # GFM GitHub-flavored Emoji plugin for Jekyll — https://github.com/jekyll/jemoji
   - jekyll-titles-from-headings # Generate page title from the first Markdown heading when none is specified — https://github.com/benbalter/jekyll-titles-from-headings
+  - jekyll-last-modified-at
 #  - jekyll-paginate         # Jekyll Built-in Pagination Generator for Jekyll
 #  - jekyll-readme-index     # Jekyll Render a project's README as the site's index — https://github.com/benbalter/jekyll-readme-index/
 #  - jekyll-avatar           # Liquid  rendering GitHub avatars — https://github.com/benbalter/jekyll-avatar/
