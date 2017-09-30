@@ -2,7 +2,7 @@
 layout: default
 title:  "Regatta: PCISA Sea Otter Oct 14-15"
 date:   2017-09-29 01:07:52 -0700
-last_modified_at: 2017-09-29 01:07:52 -0700
+last_modified_at: 2017-09-30 10:16:52 -0700
 categories: regatta
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -20,8 +20,23 @@ author: Mike Stewart
 
 ## Oct 14-15 Sea Otter Regatta hosted by Monterey Bay Yacht Club
 
+After speaking with ABYC coach Mark Ryan (Craig Ramsay, Director of Sailing Programs was unavailable).  Due to PCISA rules if a team enters, they need to have at least two boats, gold & silver team.  The current plan is to send Nikhil & Diego for Gold, and Troy & Elizabeth for silver.  Hopefully a couple other sailors can join as its also typical to swap crew out during a two day event—both days although fun, can be very long & tiring.  Suggestions on how to coordinate are welcome!
 
-Check back soon.  More info after speaking with ABYC coach Mark Ryan and Driect Craig Craig Ramsay / 562-343-8030
+[Travel Coordination Doc](https://docs.google.com/document/d/1_aak6r156h44mse531RZKZOjXVh1fIFb2djaTb_KRo0) (in shared folder)
+
+
+
+### Logistics 
+
+No practice on Friday before regatta due to Travel.
+
+Practice as normal on Wed Oct 11, then (possible practce on Thursday? and/or simply) prep and pack the boats to be ready to go.  Which allows a driver(s) to tow trailer(s) Thursday or Friday. 
+
+#### Lodging 
+
+Map listing of [Hotels near Monterey Bay Yacht Club](https://www.google.com/maps/search/hotels+near+montery+bay+yacht+club/@36.5969668,-121.8908823,15z/data=!3m1!4b1!4m5!2m4!5m3!5m2!1s2017-10-13!2i2?hl=en). Book soon, prices are up on that weekend, you might want to stay a bit further away in order to save a little.
+
+
 
 ### PCISA Sea Otter Info
 
