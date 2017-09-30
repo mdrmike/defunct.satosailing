@@ -2,7 +2,7 @@
 layout: default
 title:  "Sea Otter Regatta"
 date:   2017-09-29 01:07:52 -0700
-last_modified_at: 2017-09-30 10:16:52 -0700
+last_modified_at: 2017-09-30 14:33:52 -0700
 categories: [ regatta, PCISA ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -19,7 +19,7 @@ author: Mike Stewart
 ---
 
 
-At practice on Friday I spoke with ABYC coach Mark Ryan (Craig Ramsay, Director of Sailing Programs was unavailable).  Due to PCISA rules for a team to compete in a regatta we need to have at least two boats; a gold & silver team boat.  The current plan is to send Nikhil & Diego for Gold, and Troy & Elizabeth for silver.  Hopefully more sailors can join us since its also typical to swap crew out during a two day event — although fun sailing both days, it can be very long & tiring.  Suggestions on how to coordinate this trip is welcome!  [Travel Coordination Doc](https://docs.google.com/document/d/1_aak6r156h44mse531RZKZOjXVh1fIFb2djaTb_KRo0) (in shared folder)
+At practice on Friday I spoke with ABYC coach Mark Ryan (Craig Ramsay, Director of Sailing Programs was unavailable).  Due to PCISA rules for a team to compete in a regatta we need to have at least two boats; a gold & silver team boat.  The current plan is to send Nikhil & Diego for Gold, and Troy & Elizabeth for silver.  Hopefully more sailors can join us since its also typical to swap crew out during a two day event — although fun sailing both days, it can be very long & tiring.  Suggestions on how to coordinate this trip is welcome! [:memo: Travel Coordination Doc](https://docs.google.com/document/d/1_aak6r156h44mse531RZKZOjXVh1fIFb2djaTb_KRo0)
 
 
 ### Logistics 
