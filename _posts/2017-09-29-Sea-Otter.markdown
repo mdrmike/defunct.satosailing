@@ -2,7 +2,7 @@
 layout: default
 title:  "Sea Otter Regatta"
 date:   2017-09-29 01:07:52 -0700
-last_modified_at: 2017-10-06 15:51:52 -0700
+last_modified_at: 2017-10-07 14:59:33 -0700
 categories: [ regatta, PCISA ]
 author: Mike Stewart
 #authors: ["frontmatter_styleguide_authors","Full Author Name", "author_name"]
@@ -20,12 +20,12 @@ author: Mike Stewart
 
 ## Update
 
-Bad news for Sato Sailing.  Not quite three weeks together and still learning PCISA organization, we goofed. Sato did not register for the event prior to the entry deadline.  While preparing for our second regatta, the assumption was that deadlines were all the same; a week prior to the event.  It turns out that assuming is unreliable. Who knew?  :stuck_out_tongue_winking_eye:
+Bad news for Sato Sailing.  Not quite three weeks after formation and still learning PCISA organization, we goofed. Sato did not register for the event prior to the entry deadline.  While preparing for our second regatta, the assumption was that deadlines were all the same; a week prior to the event.  *It turns out that assuming is unreliable. Who knew?*  :smirk:
 
 
 ### Explanation
 
-So, we've learned it's important to check the **NOR** in advance, and then read the [full document](https://hssailing.org/schedule_news/docs/pcisa_docs/2017-Sea-Otter-Regatta-NOR.pdf) until at the bottom of the first page you find a section titled *Registration*. For Sea Otter, it was:
+So, we've learned it's important to check the **NOR** in advance, and then read the [full document](https://hssailing.org/schedule_news/docs/pcisa_docs/2017-Sea-Otter-Regatta-NOR.pdf).  For Sea Otter this was at the bottom of the first page in a section titled *Registration*. 
 
 >  REGISTRATION
 >  
@@ -33,40 +33,12 @@ So, we've learned it's important to check the **NOR** in advance, and then read 
 >  website (pcisa.hssailing.org/event/registration/sea-otter). All entries must be received by 1700 hours
 >  Friday, September 29th, 2017. Exceptions may be made at the discretion of the Organizing Authority. 
 
-In this case the Organizing Authority is PCISA and MPYC.  We requested PCISA to grant us an exception. They declined, even though we were less than a day late.  Sound like any teachers we know?  (Don't answer that).
+In this case the Organizing Authority is PCISA and MPYC.  We requested PCISA to grant us an exception. They declined.  *Even though we were less than a day late! Sound like any teachers we know?* :stuck_out_tongue_winking_eye:
 
-**What we need to know:**  So, what's an **NOR?**  It's an acronym for **Notice of Race**.  In the section of the PCISA website: [https://pcisa.hssailing.org/](https://pcisa.hssailing.org/) titled "Upcoming Events," the **NOR** is listed next to **REG**, which is short for **Registration**.
+### What We Learned
 
-**How to not make this mistake again?**  Stay up-to-date on PCISA happenings.  The easiest way is to [Join the mailing list](https://pcisa.hssailing.org/index.php?mailing-list), and help us avoid these types of mishaps in the future.
+**We need to know** how the PCISA organization works and the language they use. So, what's an **NOR?**  It's an acronym for **Notice of Race**.  In the section of the PCISA website: [https://pcisa.hssailing.org/](https://pcisa.hssailing.org/) titled "Upcoming Events," the **NOR** is listed next to **REG**, which is short for **Registration**.
+
+**How do we avoid repeating this mistake?**  Stay up-to-date on PCISA happenings.  Eveyone can help with this.  Parents.  Sailors.  Perhaps even family or friends.  The easiest way is to stay up to date with latest news is to [join the PCISA mailing list](https://pcisa.hssailing.org/index.php?mailing-list), and help us avoid these types of mishaps in the future. 
 
 Lessons learned.  We'll be prepared next time.
-
-
-## ~~Old News~~
-
-~~At practice on Friday I spoke with ABYC coach Mark Ryan (Craig Ramsay, Director of Sailing Programs was unavailable).  Due to PCISA rules for a team to compete in a regatta we need to have at least two boats; a gold & silver team boat.  The current plan is to send Nikhil & Diego for Gold, and Troy & Elizabeth for silver.  Hopefully more sailors can join us since its also typical to swap crew out during a two day event — although fun sailing both days, it can be very long & tiring.  Suggestions on how to coordinate this trip is welcome! [:memo: Travel Coordination Doc](https://docs.google.com/document/d/1_aak6r156h44mse531RZKZOjXVh1fIFb2djaTb_KRo0)~~
-
-
-### ~~Logistics ~~
-
-~~No practice Friday Oct 13 due to regatta travel.~~
-
-~~Practice as normal on Wed Oct 11, then (possible practce on Thursday? and/or simply) prep and pack the boats to be ready to go.  Which allows a driver(s) to tow trailer(s) Thursday or Friday. ~~
-
-
-
-
-#### ~~Lodging ~~
-
-~~Map listing of [Hotels near Monterey Bay Yacht Club](https://www.google.com/maps/search/hotels+near+montery+bay+yacht+club/@36.5969668,-121.8908823,15z/data=!3m1!4b1!4m5!2m4!5m3!5m2!1s2017-10-13!2i2?hl=en). Book soon, prices are up on that weekend, you might want to stay a bit further away in order to save a little.~~
-
-
-
-### ~~PCISA Sea Otter Info~~
-
-~~10/14-15/2017	[:calendar: PCISA 1/5 - Sea Otter](https://pcisa.hssailing.org/event/home/sea-otter/183)	| [:information_source: NOR](https://hssailing.org/schedule_news/docs/pcisa_docs/2017-Sea-Otter-Regatta-NOR.pdf) | [:name_badge: Reg](https://hssailing.org/machform/view.php?id=54372) ~~
-
-
-~~**Note**~~
-
-~~Registration link is only for your conveneneince.  Please do not register if you're unsure.  Ask your sailor for guidance.  If they are unsure, please ask them to reach out to **Nikhil Stewart** or **Coach K**.  _(See [:file_folder: shared folder](https://drive.google.com/drive/u/0/folders/0B7xS-e7S036gT0QzNGpURHl4LTA) for contact info)_~~
