@@ -6,7 +6,8 @@ layout: default
 
   {{ content }}
 
-  <h1 class="page-heading">Latest News</h1>
+  <aside>
+  <h2 id="news" class="page-heading">Latest News</h1>
   {% assign date_format = site.sato.date_format | default: "%b %-d, %Y" %}
   <ul class="post-list">
     {% for post in site.posts %}
@@ -15,8 +16,10 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  
-{% include calendar.html %}
+  </aside>
+  <aside>
+    {% include calendar.html %}
+  </aside>
   
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
