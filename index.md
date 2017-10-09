@@ -38,7 +38,7 @@ Start by accessing the club :file_folder: <a href="https://drive.google.com/driv
 - :sunny: [NOAA LA/OC Marine Weather](http://marine.weather.gov/MapClick.php?x=251&y=181&site=lox&zmx=&zmy=&map_x=251&map_y=181#.WdsP4N-YWV4) // :small_red_triangle: [LA/OC Buoy Data](http://www.ndbc.noaa.gov/radial_search.php?lat1=33.5645N&lon1=118.7508W&uom=E&dist=50)
 - :ocean: [NOAA SD Marine Weather](http://marine.weather.gov/MapClick.php?x=321&y=232&site=lox&zmx=&zmy=&map_x=321&map_y=232#.WdsQ8N-YWV4) // :small_red_triangle: [SD Buoy Data](http://www.ndbc.noaa.gov/radial_search.php?lat1=32.8501N&lon1=117.5881W&uom=E&dist=50)
 - :earth_americas: [Nautical Charts](https://oceanservice.noaa.gov/facts/find-charts.html)
-- :partly_sunny: [Enhanced Weather Display](http://preview.weather.gov/edd/)  // :iphone: [Mobile](http://preview.weather.gov/edd/resource/edd/mobile/index.html?lr=F&r=F&pc=F&lh=T&h=T&obs=T&obfield=Wind Gust&obp=1&ndfd=F&ndfdregion=conus&ndfdfield=maxt&ndfdvt=2017-10-10T00:00&z=11&ll=-118.1567,33.7759&bm=ESRI National Geographic&s=T&c=F&sc=717171&cc=717171&ml=U.S. States|undefined|1)
+- :partly_sunny: [Enhanced Weather Display](http://preview.weather.gov/edd/)  // :iphone: [Mobile](https://go.usa.gov/xnxUe)
 
 
 ####  Optional
