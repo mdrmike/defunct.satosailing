@@ -38,7 +38,7 @@ Sep 29 Nikhil & Diego discovered we can charter boats on the weekend.  So they d
 
 Check out our folder :moneybag: [Fund Raising](https://drive.google.com/drive/folders/0B1BmCT4HlfrzQXNLNGlhVExGbzg)!  Let's all have fun and help reduce costs for the club.  
 
-Why? In addition to individual costs, the club has costs too.  Everything costs money.  Fund raising can lower or potentially eliminates extra costs. Team rash guards, jackets, bags, etc.  Regatta registration. Memberships to PCISA and SCYYRA (so we can sail in regatta's).  If we raise enough, we might even be able to lower or eliminate the cost of individual ABYC registration.  We're finalizing the club charter and then need our IRS Tax-ID, bank account, etc, but things are moving fast.
+Why? In addition to individual costs, the club has costs too.  Everything costs money.  Fund raising can lower or potentially eliminates extra costs. Team rash guards, pinnies, jackets, bags, etc.  Regatta registration. Memberships to PCISA and SCYYRA (so we can sail in regatta's).  If we raise enough, we might even be able to lower or eliminate the cost of individual ABYC registration.  We're finalizing the club charter and then need our IRS Tax-ID, bank account, etc, but things are moving fast.
 
 In the meantime, if by Oct 22 every sailor could find an organization to donate or host a profit-sharing event, such as a dinner fund raiser, it'd help!  It would prepare us and get the gears going to pay for upcoming costs.  (Check the Leads folder to find out what's already been accomplished).
 
